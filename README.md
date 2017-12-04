@@ -7,7 +7,7 @@ Today I will now announce my Team members and Tomorrow their role play and the p
 
 Team Members | Role 
 ------------ | -----------
-Carlos Nah   | Program Manager
+Carlos Nah   | Project Manager
 Mostafa Hesham | Assistant PM
 Maksym Bibikov | Programmer/ Developer
 Babageedhey | Front End Developer
@@ -33,5 +33,6 @@ We will be building a *QuizGenerator* and my friend Mostafa Hesham will tell you
 
 ### Tech Stack
 - ReactJs
-- Nosql and mongoDb
+- ExpressJs
+- NodeJs
 
