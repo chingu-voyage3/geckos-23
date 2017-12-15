@@ -19,17 +19,17 @@ We will be building a *QuizGenerator* and my friend Mostafa Hesham will tell you
 
 1- The application landing page have a sign up / sign in buttons with a nice looking background .
 
-2- When the user is in the main page contains the popular quizess of other users which is chosed by the number of likes they have.
+2- When the user is in the main page contains the popular quizess of other users which is chosen by the number of likes they have.
 
-3- At the top left there is a creat quiz button and beside it is the user's avatar.
+3- At the top left corner there is a create quiz button and beside it is the user's avatar.
 
-4- When the user press the create quiz button he is transfered to the quiz creator page. 
+4- When the user clicks the create quiz button he is navigated to the quiz creator page. 
 
-5- When the user press the avatar there is a dropdown menu which contain his profile and sign out and his quizzes.
+5- When the user clicks the avatar there is a dropdown menu which contain his profile and sign out and his quizzes.
 
-6- About the quiz creator page here comes the heavy stuff there will be many types of quizzes the user chose the type he wants with in select element .
+6- About the quiz creator page here comes the heavy stuff there will be many types of quizzes the user chooses the type of Quiz he/she wants with in select element .
 
-7- After the user choose the type he starts to make his quiz which the making of the quiz will be different for every type and will discuss that together. 
+7- After the user chooses the type he/she can then start to make his/her quiz while the making of each quiz will differ from one another and will be open for disscussion.
 
 ### Tech Stack
 - ReactJs
