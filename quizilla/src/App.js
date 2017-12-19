@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Navbar from './Navbar';
-import body from './body';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
 import './App.css';
 
 var NavLinks = [
@@ -28,7 +28,9 @@ class App extends Component {
     return (
       <div className="App">
       <Navbar navData={NavLinks} />
-      <body />
+	  <div className="jumbotron">
+      <Home />
+	  </div>
       </div>
     );
   }
