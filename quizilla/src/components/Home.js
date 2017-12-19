@@ -5,7 +5,7 @@ class Home extends Component {
     render(){
         return (
             
-            <img src={quizzilla} alt="" />
+            <img src={quizzilla} className="img-responsive" alt="" />
             
             );
     }
