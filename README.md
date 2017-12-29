@@ -31,6 +31,14 @@ We will be building a Quiz App and my friend `Mostafa Hesham` will tell you more
 
 7 After the user choose the type he starts to make his quiz which the making of the quiz will be different for every type and will discuss that together. 
 
+## Instruction for  Contributing to the Geckos-23 repository
+**We** are very excited if you're  contributing to this repository and need to collaborate and here are few guide lines that will help you get the best out of this site.
+* Firstly, We are going to start with the forking of the [repo](https://github.com/chingu-voyage-3/geckos-23) and after that use git clone to start working on the project remotely.
+* Secondly, after completing the cloning on your local machine,  ```cd into  geckos-23```
+* Next you use ```npm install``` to install all the dependencies that is in th package.json to your machine
+* After that use ```git remote -v````
+*
+
 ### Tech Stack
 - ReactJs
 - ExpressJs
