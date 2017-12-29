@@ -4,9 +4,11 @@ node_js:
 services: mongodb
 cache:
   directories:
+  - npm true
   - node_modules
-install:
-- npm install
+scripts:
+- npm test
+- npm run build
 branches:
   only:
   - master
