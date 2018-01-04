@@ -1,44 +1,28 @@
 import React, { Component } from 'react';
-import Navbar from './components/Homepage/Navbar';
 import Home from './components/Homepage/Home';
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0f1aebaae42434b6ca94385fbf8a533c8b0fe02
 import './App.css';
 
-
-var NavLinks = [
-  {
-    title:'Home',
-    href:'#'
-  },
-  {
-    title:'About',
-    href:'#'
-  },
-  {
-    title : 'Login/SignUp',
-    href:'#'
-  },
-  {
-    title: 'Contact Us',
-    href:'#'
-  }
-  ];
-  
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+	   <Home />
 	   <header className="App-header">
+<<<<<<< HEAD
 	    <Navbar navData={NavLinks} />
 		 <h1 className="App-title">Welcome to Quizzilla</h1>
+=======
+	     <h1 className="App-title">Welcome to Quizzilla</h1>
+>>>>>>> c0f1aebaae42434b6ca94385fbf8a533c8b0fe02
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
 		  </header>
-	  <div className="jumbotron">
-      <Home />
-	  </div>
       </div>
     );
   }
