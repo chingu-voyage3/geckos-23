@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
-import Navbar from './components/Homepage/Navbar';
 import Home from './components/Homepage/Home';
-import quizilla from './components/img/quizzilla.png';
 import './App.css';
 
-
-
-  
 
 class App extends Component {
   render() {
