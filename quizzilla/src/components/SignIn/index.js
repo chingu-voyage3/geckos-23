@@ -1,12 +1,12 @@
 // Core
 import React, { Component } from 'react';
-import { auth, googleAuthProvider, goodleAuthProvider } from '../../instruments/firebase';
+import { auth, googleAuthProvider } from '../../instruments/firebase';
 
 class SignIn extends Component {
     render() {
         return (
             <div className="SignIn">
-                <button onClick={() => auth.signInWithPopup(goodleAuthProvider)}>
+                <button onClick={() => auth.signInWithPopup(googleAuthProvider)}>
                     Sign In
                 </button>
             </div>

@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 // Instruments
-import { auth, database } from './instruments/firebase';
+import { auth } from './instruments/firebase';
 import './App.css';
 
 // Components

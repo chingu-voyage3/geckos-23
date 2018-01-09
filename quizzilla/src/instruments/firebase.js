@@ -15,4 +15,4 @@ export default firebase;
 
 export const database = firebase.database();
 export const auth = firebase.auth();
-export const goodleAuthProvider = new firebase.auth.GoogleAuthProvider();
+export const googleAuthProvider = new firebase.auth.GoogleAuthProvider();
