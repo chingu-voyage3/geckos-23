@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-<<<<<<< HEAD
 import quizzilla from '../img/quizzilla.png';
-=======
 import Navbar from './Navbar';
 
 
@@ -23,7 +21,6 @@ var NavLinks = [
     href:'#'
   }
   ];
->>>>>>> c0f1aebaae42434b6ca94385fbf8a533c8b0fe02
 
 class Home extends Component {
     render(){
