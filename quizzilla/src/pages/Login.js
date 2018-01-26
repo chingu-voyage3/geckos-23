@@ -2,14 +2,16 @@ import React, { Component } from 'react';
 import Header from './pages/Header';
 import './App.css';
 
-class App extends Component {
+class Login extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
+        <Form>
+          <input  />
+        </Form>
       </div>
     );
   }
 }
 
-export default App;
+export default Login;
