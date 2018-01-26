@@ -14,7 +14,7 @@ Babageedhey | Front End Developer
 
 
 ## Project Discussion
-*Here is the project plan*
+**Here is the project plan**
 We will be building a Quiz App and my friend `Mostafa Hesham` will tell you more :
 
 1 The application landing page have a sign up / sign in buttons with a nice looking background .
@@ -36,7 +36,7 @@ We will be building a Quiz App and my friend `Mostafa Hesham` will tell you more
 * Firstly, We are going to start with the forking of the [repo](https://github.com/chingu-voyage-3/geckos-23) and after that use git clone to start working on the project remotely.
 * Secondly, after completing the cloning on your local machine,  ```cd into  geckos-23```
 * Next you use ```npm install``` to install all the dependencies that is in th package.json to your machine
-* After that use ```git remote -v````
+* After that use ```git remote -v```
 *
 
 ### Tech Stack
